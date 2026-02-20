@@ -8,7 +8,7 @@
 ## 🧠 About Me
 
 - ~2 years of experience in C# / .NET backend development
-- Currently working on Radancy project & Quest Archive Manager
+- Currently working on Radancy project
 - Handling L2 production support, backend job importer APIs & system debugging
 - Experience with legacy .NET 4.5.2 systems and performance improvements
 - Focused on secure coding, API reliability & backend system stability
@@ -17,7 +17,7 @@
 
 ## 🛠 Tech Stack
 
-**Backend:** C#, .NET Core, ASP.NET Core, REST APIs  
+**Backend:** C#, .NET Core, ASP.NET Core, Javascript, REST APIs  
 **Database:** SQL Server, EF Core, LINQ, Stored Procedures  
 **Testing & Tools:** xUnit, Swagger, Postman, Git, Azure DevOps  
 **Cloud & Security:** Microsoft Azure, Azure AD, JWT Authentication, Polaris remediation  
@@ -50,5 +50,5 @@ Production-style ASP.NET Core Web API featuring:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn
+- 💼 www.linkedin.com/in/kanchan-rautela7992
 - 📧 rautelakanchan123@gmail.com
