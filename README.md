@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Kanchan 👋
 
-<!--
-**kanchan7992/kanchan7992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | C# / .NET Backend Developer  
+🚀 Working on enterprise backend systems, REST APIs & legacy modernization  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- ~2 years of experience in C# / .NET backend development
+- Currently working on Radancy project & Quest Archive Manager
+- Handling L2 production support, backend job importer APIs & system debugging
+- Experience with legacy .NET 4.5.2 systems and performance improvements
+- Focused on secure coding, API reliability & backend system stability
+
+---
+
+## 🛠 Tech Stack
+
+**Backend:** C#, .NET Core, ASP.NET Core, REST APIs  
+**Database:** SQL Server, EF Core, LINQ, Stored Procedures  
+**Testing & Tools:** xUnit, Swagger, Postman, Git, Azure DevOps  
+**Cloud & Security:** Microsoft Azure, Azure AD, JWT Authentication, Polaris remediation  
+**Concepts:** OOP, SOLID, Dependency Injection, Secure Coding, Performance Optimization  
+
+---
+
+## 💼 What I Work On
+
+- Backend job importer APIs  
+- REST endpoint development & debugging  
+- SQL query optimization  
+- Legacy system enhancement (.NET 4.5.2)  
+- Production issue resolution (L2 Support)  
+- Security vulnerability remediation  
+
+---
+
+## 📌 Personal Project
+
+### Task Manager API
+Production-style ASP.NET Core Web API featuring:
+- JWT Authentication
+- CRUD Operations
+- EF Core + SQL Server
+- Swagger Documentation
+- Clean Architecture principles
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn
+- 📧 rautelakanchan123@gmail.com
