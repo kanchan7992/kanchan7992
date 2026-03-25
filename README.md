@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-- ~2 years of experience in C# / .NET backend development
+- ~3 years of experience in C# / .NET backend development
 - Currently working on Radancy project
 - Handling L2 production support, backend job importer APIs & system debugging
 - Experience with legacy .NET 4.5.2 systems and performance improvements
